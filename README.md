@@ -19,3 +19,4 @@ I'm participating in the 60 Days of AI Challenge to improve my AI Engineering, P
 | 01 | [AI Personality Profile](./Day-01/AI-Personality-Profile.md) | ✅ |
 | 02 | [Your First Python AI Script](./Day-02/README.md) | ✅ |
 | 05 | [Build a Mini Search Engine](./Day-05/README.md) | ✅ |
+| 06 | [AI Resume Optimizer](./Day-06/README.md) | ✅ | 
