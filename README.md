@@ -21,3 +21,4 @@ I'm participating in the 60 Days of AI Challenge to improve my AI Engineering, P
 | 05 | [Build a Mini Search Engine](./Day-05/README.md) | ✅ |
 | 06 | [AI Resume Optimizer](./Day-06/README.md) | ✅ |
 | 07 | [Claude Model Selection & Reasoning Effort] | ✅ |
+Day 8: Build Your First AI-Powered Dashboard with Claude Artifacts
