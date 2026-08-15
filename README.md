@@ -23,3 +23,4 @@ I'm participating in the 60 Days of AI Challenge to improve my AI Engineering, P
 | 07 | [Claude Model Selection & Reasoning Effort] | ✅ |
 Day 8: Build Your First AI-Powered Dashboard with Claude Artifacts
 Build & Enhance an AI Nutrition Analytics App
+Build Your Personal Portfolio Website with Claude
