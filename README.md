@@ -26,3 +26,4 @@ Build & Enhance an AI Nutrition Analytics App
 Build Your Personal Portfolio Website with Claude
 Day 11: Build an ATS-Optimized Resume with Claude
 Build Your Complete Job Search & Personal Branding Toolkit with Claude
+Build Your AI Job Search Assistant
