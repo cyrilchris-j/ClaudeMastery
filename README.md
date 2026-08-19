@@ -27,3 +27,4 @@ Build Your Personal Portfolio Website with Claude
 Day 11: Build an ATS-Optimized Resume with Claude
 Build Your Complete Job Search & Personal Branding Toolkit with Claude
 Build Your AI Job Search Assistant
+Day 14: Detect Job Red Flags Before You Apply with Claude
