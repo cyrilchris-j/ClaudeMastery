@@ -34,3 +34,4 @@ Day 16: Build Your First Custom Claude Skill for Stock Research
  Build a Brain Dump Action Planner Skill with Claude
  Python Control Flow & Functions
  Python Control Flow Mastery
+ Loops + Data Structures (Lists, Strings, Dict)
