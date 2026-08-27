@@ -35,3 +35,4 @@ Day 16: Build Your First Custom Claude Skill for Stock Research
  Python Control Flow & Functions
  Python Control Flow Mastery
  Loops + Data Structures (Lists, Strings, Dict)
+What Makes AI Products Actually Good
