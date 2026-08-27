@@ -38,3 +38,4 @@ Day 16: Build Your First Custom Claude Skill for Stock Research
 What Makes AI Products Actually Good
  Build a Digital Privacy & Footprint Intelligence Dashboard
  Project Setup + Dataset Selection
+User Login Validator
