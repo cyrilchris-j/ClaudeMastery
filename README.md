@@ -33,6 +33,7 @@ Day 16: Build Your First Custom Claude Skill for Stock Research
  Build an AI-Powered Vehicle Cost & Fuel Analysis Dashboard
  Build a Brain Dump Action Planner Skill with Claude
  Python Control Flow & Functions
+ Connect a Frontend to Your AI Backend
  Python Control Flow Mastery
  Loops + Data Structures (Lists, Strings, Dict)
 What Makes AI Products Actually Good
