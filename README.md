@@ -40,3 +40,4 @@ What Makes AI Products Actually Good
  Project Setup + Dataset Selection
 User Login Validator
 Build Your Startup Business Strategy Report
+Build Your Customer & MVP Blueprint
